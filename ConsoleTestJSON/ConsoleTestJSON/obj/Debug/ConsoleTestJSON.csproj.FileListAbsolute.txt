@@ -1,0 +1,7 @@
+D:\Projects\cs365\ConsoleTestJSON\ConsoleTestJSON\obj\Debug\ConsoleTestJSON.csprojAssemblyReference.cache
+D:\Projects\cs365\ConsoleTestJSON\ConsoleTestJSON\obj\Debug\ConsoleTestJSON.csproj.CoreCompileInputs.cache
+D:\Projects\cs365\ConsoleTestJSON\ConsoleTestJSON\bin\Debug\ConsoleTestJSON.exe.config
+D:\Projects\cs365\ConsoleTestJSON\ConsoleTestJSON\bin\Debug\ConsoleTestJSON.exe
+D:\Projects\cs365\ConsoleTestJSON\ConsoleTestJSON\bin\Debug\ConsoleTestJSON.pdb
+D:\Projects\cs365\ConsoleTestJSON\ConsoleTestJSON\obj\Debug\ConsoleTestJSON.exe
+D:\Projects\cs365\ConsoleTestJSON\ConsoleTestJSON\obj\Debug\ConsoleTestJSON.pdb
